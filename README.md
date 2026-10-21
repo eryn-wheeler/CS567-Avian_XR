@@ -3,4 +3,4 @@ Repo for semester project for CS 567: 3D User Interfaces and Human-Centered Spat
 
 More to be described here! :) 
 
-Last updated: 10/20/2026
+Last updated: 10/21/2026
