@@ -478,8 +478,8 @@ Transform:
   m_GameObject: {fileID: 156949411}
   serializedVersion: 2
   m_LocalRotation: {x: -0.35859075, y: -0.47512832, z: -0.7726876, w: 0.22049864}
-  m_LocalPosition: {x: 2.5641, y: 1.1321, z: -3.0121}
-  m_LocalScale: {x: -0.12896062, y: 0.15251133, z: 0.06876229}
+  m_LocalPosition: {x: 2.5673, y: 1.1182, z: -3.0095}
+  m_LocalScale: {x: -0.10735069, y: 0.15251133, z: 0.05883714}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 775518449}
@@ -1212,7 +1212,7 @@ Transform:
   m_GameObject: {fileID: 689044241}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0.33646697, z: -0, w: 0.9416953}
-  m_LocalPosition: {x: 2.669, y: 1.226, z: -2.899}
+  m_LocalPosition: {x: 2.632, y: 1.2048, z: -2.929}
   m_LocalScale: {x: 0.20218, y: 0.051751222, z: 1.0360192}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3710,7 +3710,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c703934b455ebcd439f3694887b500af, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ToggleCallout
-  targetCallout: {fileID: 288325470}
+  targetCallout: {fileID: 1655880369}
 --- !u!114 &1766685798
 MonoBehaviour:
   m_ObjectHideFlags: 0
